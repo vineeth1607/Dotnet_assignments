@@ -1,0 +1,8 @@
+C:\Assignments\C#\Assignment2\LoanAssignment\LoanAssignment\bin\Debug\LoanAssignment.exe.config
+C:\Assignments\C#\Assignment2\LoanAssignment\LoanAssignment\bin\Debug\LoanAssignment.exe
+C:\Assignments\C#\Assignment2\LoanAssignment\LoanAssignment\bin\Debug\LoanAssignment.pdb
+C:\Assignments\C#\Assignment2\LoanAssignment\LoanAssignment\obj\Debug\LoanAssignment.csproj.AssemblyReference.cache
+C:\Assignments\C#\Assignment2\LoanAssignment\LoanAssignment\obj\Debug\LoanAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\Assignment2\LoanAssignment\LoanAssignment\obj\Debug\LoanAssignment.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\Assignment2\LoanAssignment\LoanAssignment\obj\Debug\LoanAssignment.exe
+C:\Assignments\C#\Assignment2\LoanAssignment\LoanAssignment\obj\Debug\LoanAssignment.pdb

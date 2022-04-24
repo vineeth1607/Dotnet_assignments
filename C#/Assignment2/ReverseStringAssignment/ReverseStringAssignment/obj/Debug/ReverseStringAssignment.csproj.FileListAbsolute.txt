@@ -1,0 +1,8 @@
+C:\Assignments\C#\Assignment2\ReverseStringAssignment\ReverseStringAssignment\bin\Debug\ReverseStringAssignment.exe.config
+C:\Assignments\C#\Assignment2\ReverseStringAssignment\ReverseStringAssignment\bin\Debug\ReverseStringAssignment.exe
+C:\Assignments\C#\Assignment2\ReverseStringAssignment\ReverseStringAssignment\bin\Debug\ReverseStringAssignment.pdb
+C:\Assignments\C#\Assignment2\ReverseStringAssignment\ReverseStringAssignment\obj\Debug\ReverseStringAssignment.csproj.AssemblyReference.cache
+C:\Assignments\C#\Assignment2\ReverseStringAssignment\ReverseStringAssignment\obj\Debug\ReverseStringAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\Assignment2\ReverseStringAssignment\ReverseStringAssignment\obj\Debug\ReverseStringAssignment.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\Assignment2\ReverseStringAssignment\ReverseStringAssignment\obj\Debug\ReverseStringAssignment.exe
+C:\Assignments\C#\Assignment2\ReverseStringAssignment\ReverseStringAssignment\obj\Debug\ReverseStringAssignment.pdb

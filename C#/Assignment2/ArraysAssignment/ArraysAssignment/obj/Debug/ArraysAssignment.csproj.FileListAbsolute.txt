@@ -1,0 +1,8 @@
+C:\Assignments\C#\Assignment2\ArraysAssignment\ArraysAssignment\bin\Debug\ArraysAssignment.exe.config
+C:\Assignments\C#\Assignment2\ArraysAssignment\ArraysAssignment\bin\Debug\ArraysAssignment.exe
+C:\Assignments\C#\Assignment2\ArraysAssignment\ArraysAssignment\bin\Debug\ArraysAssignment.pdb
+C:\Assignments\C#\Assignment2\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.AssemblyReference.cache
+C:\Assignments\C#\Assignment2\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\Assignment2\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\Assignment2\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.exe
+C:\Assignments\C#\Assignment2\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.pdb

@@ -1,0 +1,11 @@
+C:\Assignments\C#\Assignment2\StudentAssignment\StudentAssignment\obj\Debug\StudentAssignment.csproj.AssemblyReference.cache
+C:\Assignments\C#\Assignment2\StudentAssignment\StudentAssignment\obj\Debug\StudentAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\Assignment2\StudentAssignment\StudentAssignment\obj\Debug\StudentAssignment.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\Assignment3\StudentAssignment\StudentAssignment\bin\Debug\StudentAssignment.exe.config
+C:\Assignments\C#\Assignment3\StudentAssignment\StudentAssignment\bin\Debug\StudentAssignment.exe
+C:\Assignments\C#\Assignment3\StudentAssignment\StudentAssignment\bin\Debug\StudentAssignment.pdb
+C:\Assignments\C#\Assignment3\StudentAssignment\StudentAssignment\obj\Debug\StudentAssignment.csproj.AssemblyReference.cache
+C:\Assignments\C#\Assignment3\StudentAssignment\StudentAssignment\obj\Debug\StudentAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\Assignment3\StudentAssignment\StudentAssignment\obj\Debug\StudentAssignment.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\Assignment3\StudentAssignment\StudentAssignment\obj\Debug\StudentAssignment.exe
+C:\Assignments\C#\Assignment3\StudentAssignment\StudentAssignment\obj\Debug\StudentAssignment.pdb

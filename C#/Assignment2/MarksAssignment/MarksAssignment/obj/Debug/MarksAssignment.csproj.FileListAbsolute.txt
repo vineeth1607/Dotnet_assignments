@@ -1,0 +1,3 @@
+C:\Assignments\C#\Assignment2\MarksAssignment\MarksAssignment\obj\Debug\MarksAssignment.csproj.AssemblyReference.cache
+C:\Assignments\C#\Assignment2\MarksAssignment\MarksAssignment\obj\Debug\MarksAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\Assignment2\MarksAssignment\MarksAssignment\obj\Debug\MarksAssignment.csproj.CoreCompileInputs.cache

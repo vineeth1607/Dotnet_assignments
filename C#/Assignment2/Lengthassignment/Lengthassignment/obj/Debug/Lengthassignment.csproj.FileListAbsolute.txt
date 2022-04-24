@@ -1,0 +1,8 @@
+C:\Assignments\C#\Assignment2\Lengthassignment\Lengthassignment\obj\Debug\Lengthassignment.csproj.AssemblyReference.cache
+C:\Assignments\C#\Assignment2\Lengthassignment\Lengthassignment\obj\Debug\Lengthassignment.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\Assignment2\Lengthassignment\Lengthassignment\obj\Debug\Lengthassignment.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\Assignment2\Lengthassignment\Lengthassignment\bin\Debug\Lengthassignment.exe.config
+C:\Assignments\C#\Assignment2\Lengthassignment\Lengthassignment\bin\Debug\Lengthassignment.exe
+C:\Assignments\C#\Assignment2\Lengthassignment\Lengthassignment\bin\Debug\Lengthassignment.pdb
+C:\Assignments\C#\Assignment2\Lengthassignment\Lengthassignment\obj\Debug\Lengthassignment.exe
+C:\Assignments\C#\Assignment2\Lengthassignment\Lengthassignment\obj\Debug\Lengthassignment.pdb

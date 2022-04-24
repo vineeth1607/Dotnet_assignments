@@ -1,0 +1,8 @@
+C:\Assignments\C#\Assignment2\PallindromeAssignment\PallindromeAssignment\bin\Debug\PallindromeAssignment.exe.config
+C:\Assignments\C#\Assignment2\PallindromeAssignment\PallindromeAssignment\bin\Debug\PallindromeAssignment.exe
+C:\Assignments\C#\Assignment2\PallindromeAssignment\PallindromeAssignment\bin\Debug\PallindromeAssignment.pdb
+C:\Assignments\C#\Assignment2\PallindromeAssignment\PallindromeAssignment\obj\Debug\PallindromeAssignment.csproj.AssemblyReference.cache
+C:\Assignments\C#\Assignment2\PallindromeAssignment\PallindromeAssignment\obj\Debug\PallindromeAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\Assignment2\PallindromeAssignment\PallindromeAssignment\obj\Debug\PallindromeAssignment.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\Assignment2\PallindromeAssignment\PallindromeAssignment\obj\Debug\PallindromeAssignment.exe
+C:\Assignments\C#\Assignment2\PallindromeAssignment\PallindromeAssignment\obj\Debug\PallindromeAssignment.pdb

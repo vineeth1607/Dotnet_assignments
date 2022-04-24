@@ -1,0 +1,8 @@
+C:\Assignments\C#\Assignment2\SameStringAssignment\SameStringAssignment\bin\Debug\SameStringAssignment.exe.config
+C:\Assignments\C#\Assignment2\SameStringAssignment\SameStringAssignment\bin\Debug\SameStringAssignment.exe
+C:\Assignments\C#\Assignment2\SameStringAssignment\SameStringAssignment\bin\Debug\SameStringAssignment.pdb
+C:\Assignments\C#\Assignment2\SameStringAssignment\SameStringAssignment\obj\Debug\SameStringAssignment.csproj.AssemblyReference.cache
+C:\Assignments\C#\Assignment2\SameStringAssignment\SameStringAssignment\obj\Debug\SameStringAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\Assignment2\SameStringAssignment\SameStringAssignment\obj\Debug\SameStringAssignment.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\Assignment2\SameStringAssignment\SameStringAssignment\obj\Debug\SameStringAssignment.exe
+C:\Assignments\C#\Assignment2\SameStringAssignment\SameStringAssignment\obj\Debug\SameStringAssignment.pdb

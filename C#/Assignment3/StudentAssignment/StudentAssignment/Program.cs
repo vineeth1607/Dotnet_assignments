@@ -25,7 +25,7 @@ namespace StudentAssignment
 
             for (int i = 0; i < marks.Length; i++)
             {
-                Console.WriteLine("the marks of " + i + " subs are: " + marks[i]);
+                Console.WriteLine("marks of " + i + " subs are: " + marks[i]);
             }
 
             double average = marks.Average();
@@ -57,18 +57,18 @@ namespace StudentAssignment
             this.branch = branch;
             this.sem = sem;
             this.clas = clas;
-            Console.WriteLine($"\nStudent Rollno is: {rollno}, Name of Student: {name},class: {clas}, Sem: {sem},Branch : {branch}");
+            Console.WriteLine($"\nStudent Rollno: {rollno}, Name of Student: {name},class: {clas}, Sem: {sem},Branch : {branch}");
         }
         public static void displayData()
         {
-            Console.WriteLine("\nthe marks: ");
+            Console.WriteLine("\nMarks: " );
             Console.ReadLine();
         }
             public static void Main(string[] args)
             {
 
                 Student.displayResult();
-                Student student = new Student(33, "Vineeth", "mechanical - c", "4-2", "mechancial");
+                Student student = new Student(33, "Vineeth", "mechanical", "4-2", "mechancial-c");
                 Student.displayData();
                 Console.ReadLine();
             }

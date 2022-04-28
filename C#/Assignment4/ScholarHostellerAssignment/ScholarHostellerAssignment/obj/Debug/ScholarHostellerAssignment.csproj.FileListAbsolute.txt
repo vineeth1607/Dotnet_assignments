@@ -1,0 +1,8 @@
+C:\Assignments\C#\Assignment4\ScholarHostellerAssignment\ScholarHostellerAssignment\obj\Debug\ScholarHostellerAssignment.csproj.AssemblyReference.cache
+C:\Assignments\C#\Assignment4\ScholarHostellerAssignment\ScholarHostellerAssignment\obj\Debug\ScholarHostellerAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\Assignment4\ScholarHostellerAssignment\ScholarHostellerAssignment\obj\Debug\ScholarHostellerAssignment.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\Assignment4\ScholarHostellerAssignment\ScholarHostellerAssignment\bin\Debug\ScholarHostellerAssignment.exe.config
+C:\Assignments\C#\Assignment4\ScholarHostellerAssignment\ScholarHostellerAssignment\bin\Debug\ScholarHostellerAssignment.exe
+C:\Assignments\C#\Assignment4\ScholarHostellerAssignment\ScholarHostellerAssignment\bin\Debug\ScholarHostellerAssignment.pdb
+C:\Assignments\C#\Assignment4\ScholarHostellerAssignment\ScholarHostellerAssignment\obj\Debug\ScholarHostellerAssignment.exe
+C:\Assignments\C#\Assignment4\ScholarHostellerAssignment\ScholarHostellerAssignment\obj\Debug\ScholarHostellerAssignment.pdb

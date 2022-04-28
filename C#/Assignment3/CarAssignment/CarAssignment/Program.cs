@@ -22,16 +22,10 @@ namespace CarAssignment
         }
         public void showDetails()
         {
-            Console.WriteLine("before changing the car ");
+            Console.WriteLine("Before changing the car ");
             Console.WriteLine($"car_number : {car_no},car_name: {car_name},car_type: {car_type},cost :{cost} ");
         }
-        public Car(double car_cost)
-        {
-            Console.WriteLine("after changing the car");
-            Console.WriteLine($"car_number : {car_no},car_name:{car_name},car_type:{car_type},cost :{cost} ");
-            Console.ReadLine();
-
-        }
+       
 
             public static void Main(string[] args)
             {

@@ -1,0 +1,8 @@
+C:\Assignments\C#\Assignment4\EmployeeAssignment\EmployeeAssignment\obj\Debug\EmployeeAssignment.csproj.AssemblyReference.cache
+C:\Assignments\C#\Assignment4\EmployeeAssignment\EmployeeAssignment\obj\Debug\EmployeeAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\Assignment4\EmployeeAssignment\EmployeeAssignment\obj\Debug\EmployeeAssignment.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\Assignment4\EmployeeAssignment\EmployeeAssignment\bin\Debug\EmployeeAssignment.exe.config
+C:\Assignments\C#\Assignment4\EmployeeAssignment\EmployeeAssignment\bin\Debug\EmployeeAssignment.exe
+C:\Assignments\C#\Assignment4\EmployeeAssignment\EmployeeAssignment\bin\Debug\EmployeeAssignment.pdb
+C:\Assignments\C#\Assignment4\EmployeeAssignment\EmployeeAssignment\obj\Debug\EmployeeAssignment.exe
+C:\Assignments\C#\Assignment4\EmployeeAssignment\EmployeeAssignment\obj\Debug\EmployeeAssignment.pdb

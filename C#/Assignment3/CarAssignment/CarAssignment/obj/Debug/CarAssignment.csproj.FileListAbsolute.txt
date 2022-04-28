@@ -6,3 +6,11 @@ C:\Assignments\C#\Assignment2\CarAssignment\CarAssignment\obj\Debug\CarAssignmen
 C:\Assignments\C#\Assignment2\CarAssignment\CarAssignment\obj\Debug\CarAssignment.csproj.CoreCompileInputs.cache
 C:\Assignments\C#\Assignment2\CarAssignment\CarAssignment\obj\Debug\CarAssignment.exe
 C:\Assignments\C#\Assignment2\CarAssignment\CarAssignment\obj\Debug\CarAssignment.pdb
+C:\Assignments\C#\Assignment3\CarAssignment\CarAssignment\bin\Debug\CarAssignment.exe.config
+C:\Assignments\C#\Assignment3\CarAssignment\CarAssignment\bin\Debug\CarAssignment.exe
+C:\Assignments\C#\Assignment3\CarAssignment\CarAssignment\bin\Debug\CarAssignment.pdb
+C:\Assignments\C#\Assignment3\CarAssignment\CarAssignment\obj\Debug\CarAssignment.csproj.AssemblyReference.cache
+C:\Assignments\C#\Assignment3\CarAssignment\CarAssignment\obj\Debug\CarAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\Assignment3\CarAssignment\CarAssignment\obj\Debug\CarAssignment.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\Assignment3\CarAssignment\CarAssignment\obj\Debug\CarAssignment.exe
+C:\Assignments\C#\Assignment3\CarAssignment\CarAssignment\obj\Debug\CarAssignment.pdb

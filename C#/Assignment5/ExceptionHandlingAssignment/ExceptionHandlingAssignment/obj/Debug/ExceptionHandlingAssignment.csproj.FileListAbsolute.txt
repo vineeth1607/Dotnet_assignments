@@ -6,3 +6,11 @@ C:\Assignments\C#\Assignment4\ExceptionHandlingAssignment\ExceptionHandlingAssig
 C:\Assignments\C#\Assignment4\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.csproj.CoreCompileInputs.cache
 C:\Assignments\C#\Assignment4\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.exe
 C:\Assignments\C#\Assignment4\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.pdb
+C:\Assignments\C#\Assignment5\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.exe.config
+C:\Assignments\C#\Assignment5\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.exe
+C:\Assignments\C#\Assignment5\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.pdb
+C:\Assignments\C#\Assignment5\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.csproj.AssemblyReference.cache
+C:\Assignments\C#\Assignment5\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\Assignment5\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\Assignment5\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.exe
+C:\Assignments\C#\Assignment5\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.pdb

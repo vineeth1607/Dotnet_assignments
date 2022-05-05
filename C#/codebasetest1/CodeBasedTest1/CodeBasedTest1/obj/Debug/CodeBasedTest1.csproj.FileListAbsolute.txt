@@ -1,3 +1,0 @@
-C:\Assignments\C#\Code_based_test\CodeBasedTest1\CodeBasedTest1\obj\Debug\CodeBasedTest1.csproj.AssemblyReference.cache
-C:\Assignments\C#\Code_based_test\CodeBasedTest1\CodeBasedTest1\obj\Debug\CodeBasedTest1.csproj.SuggestedBindingRedirects.cache
-C:\Assignments\C#\Code_based_test\CodeBasedTest1\CodeBasedTest1\obj\Debug\CodeBasedTest1.csproj.CoreCompileInputs.cache

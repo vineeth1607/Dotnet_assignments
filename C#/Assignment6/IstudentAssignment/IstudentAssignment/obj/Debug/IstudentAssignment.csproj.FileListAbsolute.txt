@@ -1,8 +1,0 @@
-C:\Assignments\C#\Assignment6\IstudentAssignment\IstudentAssignment\bin\Debug\IstudentAssignment.exe.config
-C:\Assignments\C#\Assignment6\IstudentAssignment\IstudentAssignment\bin\Debug\IstudentAssignment.exe
-C:\Assignments\C#\Assignment6\IstudentAssignment\IstudentAssignment\bin\Debug\IstudentAssignment.pdb
-C:\Assignments\C#\Assignment6\IstudentAssignment\IstudentAssignment\obj\Debug\IstudentAssignment.csproj.AssemblyReference.cache
-C:\Assignments\C#\Assignment6\IstudentAssignment\IstudentAssignment\obj\Debug\IstudentAssignment.csproj.SuggestedBindingRedirects.cache
-C:\Assignments\C#\Assignment6\IstudentAssignment\IstudentAssignment\obj\Debug\IstudentAssignment.csproj.CoreCompileInputs.cache
-C:\Assignments\C#\Assignment6\IstudentAssignment\IstudentAssignment\obj\Debug\IstudentAssignment.exe
-C:\Assignments\C#\Assignment6\IstudentAssignment\IstudentAssignment\obj\Debug\IstudentAssignment.pdb

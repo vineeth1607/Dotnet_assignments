@@ -1,8 +1,0 @@
-C:\Assignments\C#\Assignment6\QueryAssignment\QueryAssignment\bin\Debug\QueryAssignment.exe.config
-C:\Assignments\C#\Assignment6\QueryAssignment\QueryAssignment\bin\Debug\QueryAssignment.exe
-C:\Assignments\C#\Assignment6\QueryAssignment\QueryAssignment\bin\Debug\QueryAssignment.pdb
-C:\Assignments\C#\Assignment6\QueryAssignment\QueryAssignment\obj\Debug\QueryAssignment.csproj.AssemblyReference.cache
-C:\Assignments\C#\Assignment6\QueryAssignment\QueryAssignment\obj\Debug\QueryAssignment.csproj.SuggestedBindingRedirects.cache
-C:\Assignments\C#\Assignment6\QueryAssignment\QueryAssignment\obj\Debug\QueryAssignment.csproj.CoreCompileInputs.cache
-C:\Assignments\C#\Assignment6\QueryAssignment\QueryAssignment\obj\Debug\QueryAssignment.exe
-C:\Assignments\C#\Assignment6\QueryAssignment\QueryAssignment\obj\Debug\QueryAssignment.pdb

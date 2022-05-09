@@ -1,3 +1,0 @@
-C:\Assignments\C#\Code_based_test\ConsoleAppDay13Practice\ConsoleAppDay13Practice\obj\Debug\ConsoleAppDay13Practice.csproj.AssemblyReference.cache
-C:\Assignments\C#\Code_based_test\ConsoleAppDay13Practice\ConsoleAppDay13Practice\obj\Debug\ConsoleAppDay13Practice.csproj.SuggestedBindingRedirects.cache
-C:\Assignments\C#\Code_based_test\ConsoleAppDay13Practice\ConsoleAppDay13Practice\obj\Debug\ConsoleAppDay13Practice.csproj.CoreCompileInputs.cache

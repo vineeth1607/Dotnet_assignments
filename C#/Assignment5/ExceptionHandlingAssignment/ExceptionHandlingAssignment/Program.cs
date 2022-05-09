@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ExceptionHandlingAssignment
 {
+<<<<<<< HEAD
     public class WithdrawException : ApplicationException
+=======
+     public class WithdrawException : ApplicationException
+>>>>>>> 915b0c8cb0af5d13f5e4b2e780099a36f0a1c93a
     {
         public WithdrawException(string msg) : base(msg)
         {

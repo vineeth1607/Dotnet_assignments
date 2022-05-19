@@ -15,11 +15,11 @@ create table EMP8
 
 
 alter table emp8
-add constraint salcheck check( salary between 5000 and 50000)
+add constraint checksalary check( salary between 5000 and 50000)
 
 
 alter table emp8
-add constraint colcheck check( deptno between 10 and 30)
+add constraint column check( deptno between 10 and 30)
 
 insert into emp8
 values (101,'vineeth',25000,10),

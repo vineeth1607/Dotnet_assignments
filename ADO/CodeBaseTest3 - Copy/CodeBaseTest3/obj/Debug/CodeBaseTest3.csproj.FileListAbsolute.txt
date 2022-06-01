@@ -1,0 +1,7 @@
+C:\Assignments\ADO\CodeBaseTest3\CodeBaseTest3\bin\Debug\CodeBaseTest3.exe.config
+C:\Assignments\ADO\CodeBaseTest3\CodeBaseTest3\bin\Debug\CodeBaseTest3.exe
+C:\Assignments\ADO\CodeBaseTest3\CodeBaseTest3\bin\Debug\CodeBaseTest3.pdb
+C:\Assignments\ADO\CodeBaseTest3\CodeBaseTest3\obj\Debug\CodeBaseTest3.csproj.AssemblyReference.cache
+C:\Assignments\ADO\CodeBaseTest3\CodeBaseTest3\obj\Debug\CodeBaseTest3.csproj.CoreCompileInputs.cache
+C:\Assignments\ADO\CodeBaseTest3\CodeBaseTest3\obj\Debug\CodeBaseTest3.exe
+C:\Assignments\ADO\CodeBaseTest3\CodeBaseTest3\obj\Debug\CodeBaseTest3.pdb

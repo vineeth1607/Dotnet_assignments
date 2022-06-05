@@ -1,0 +1,7 @@
+C:\Assignments\Casestudies\CaseStuday1\CaseStuday1\obj\Debug\CaseStuday1.csproj.AssemblyReference.cache
+C:\Assignments\Casestudies\CaseStuday1\CaseStuday1\obj\Debug\CaseStuday1.csproj.CoreCompileInputs.cache
+C:\Assignments\Casestudies\CaseStuday1\CaseStuday1\bin\Debug\CaseStuday1.exe.config
+C:\Assignments\Casestudies\CaseStuday1\CaseStuday1\bin\Debug\CaseStuday1.exe
+C:\Assignments\Casestudies\CaseStuday1\CaseStuday1\bin\Debug\CaseStuday1.pdb
+C:\Assignments\Casestudies\CaseStuday1\CaseStuday1\obj\Debug\CaseStuday1.exe
+C:\Assignments\Casestudies\CaseStuday1\CaseStuday1\obj\Debug\CaseStuday1.pdb

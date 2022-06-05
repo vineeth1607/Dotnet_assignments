@@ -20,8 +20,6 @@ set @maxempno = @maxempno + 1
 insert into Code_Employee
 values(@maxempno,@empname,@empsal,@emptype)
 
-
-
 end
 
 end

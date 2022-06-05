@@ -16,7 +16,7 @@ namespace CodeBaseTest3
         public static SqlDataReader dr;
         public static SqlConnection getCon()
         {
-            con = new SqlConnection("data source=ADMW46ZLPC1572\\SQLEXPRESS;Initial Catalog=ZensarDB;" +
+            con = new SqlConnection("data source=ADMW46ZLPC1572\\SQLEXPRESS;Initial Catalog=EmployeeCBT;" +
                 "Integrated Security=true;");
             con.Open();
             return con;

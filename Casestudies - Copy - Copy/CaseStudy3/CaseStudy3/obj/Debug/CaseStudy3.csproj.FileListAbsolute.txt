@@ -1,7 +1,0 @@
-C:\Assignments\Casestudies\CaseStudy3\CaseStudy3\bin\Debug\CaseStudy3.exe.config
-C:\Assignments\Casestudies\CaseStudy3\CaseStudy3\bin\Debug\CaseStudy3.exe
-C:\Assignments\Casestudies\CaseStudy3\CaseStudy3\bin\Debug\CaseStudy3.pdb
-C:\Assignments\Casestudies\CaseStudy3\CaseStudy3\obj\Debug\CaseStudy3.csproj.AssemblyReference.cache
-C:\Assignments\Casestudies\CaseStudy3\CaseStudy3\obj\Debug\CaseStudy3.csproj.CoreCompileInputs.cache
-C:\Assignments\Casestudies\CaseStudy3\CaseStudy3\obj\Debug\CaseStudy3.exe
-C:\Assignments\Casestudies\CaseStudy3\CaseStudy3\obj\Debug\CaseStudy3.pdb

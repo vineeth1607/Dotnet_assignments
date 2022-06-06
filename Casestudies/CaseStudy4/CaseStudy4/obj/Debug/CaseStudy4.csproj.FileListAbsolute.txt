@@ -1,0 +1,7 @@
+C:\Users\vm67586\source\repos\CaseStudy4\CaseStudy4\bin\Debug\CaseStudy4.exe.config
+C:\Users\vm67586\source\repos\CaseStudy4\CaseStudy4\bin\Debug\CaseStudy4.exe
+C:\Users\vm67586\source\repos\CaseStudy4\CaseStudy4\bin\Debug\CaseStudy4.pdb
+C:\Users\vm67586\source\repos\CaseStudy4\CaseStudy4\obj\Debug\CaseStudy4.csproj.AssemblyReference.cache
+C:\Users\vm67586\source\repos\CaseStudy4\CaseStudy4\obj\Debug\CaseStudy4.csproj.CoreCompileInputs.cache
+C:\Users\vm67586\source\repos\CaseStudy4\CaseStudy4\obj\Debug\CaseStudy4.exe
+C:\Users\vm67586\source\repos\CaseStudy4\CaseStudy4\obj\Debug\CaseStudy4.pdb

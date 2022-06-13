@@ -1,2 +1,0 @@
-C:\Assignments\Customer\Customer\obj\Debug\Customer.csproj.AssemblyReference.cache
-C:\Assignments\Customer\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache

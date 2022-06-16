@@ -1,0 +1,16 @@
+C:\Assignments\Codebase5\SignUpForm\SignUpForm\bin\Debug\net5.0\SignUpForm.exe
+C:\Assignments\Codebase5\SignUpForm\SignUpForm\bin\Debug\net5.0\SignUpForm.deps.json
+C:\Assignments\Codebase5\SignUpForm\SignUpForm\bin\Debug\net5.0\SignUpForm.runtimeconfig.json
+C:\Assignments\Codebase5\SignUpForm\SignUpForm\bin\Debug\net5.0\SignUpForm.runtimeconfig.dev.json
+C:\Assignments\Codebase5\SignUpForm\SignUpForm\bin\Debug\net5.0\SignUpForm.dll
+C:\Assignments\Codebase5\SignUpForm\SignUpForm\bin\Debug\net5.0\ref\SignUpForm.dll
+C:\Assignments\Codebase5\SignUpForm\SignUpForm\bin\Debug\net5.0\SignUpForm.pdb
+C:\Assignments\Codebase5\SignUpForm\SignUpForm\obj\Debug\net5.0\SignUpForm.csproj.AssemblyReference.cache
+C:\Assignments\Codebase5\SignUpForm\SignUpForm\obj\Debug\net5.0\SignUpForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\Codebase5\SignUpForm\SignUpForm\obj\Debug\net5.0\SignUpForm.AssemblyInfoInputs.cache
+C:\Assignments\Codebase5\SignUpForm\SignUpForm\obj\Debug\net5.0\SignUpForm.AssemblyInfo.cs
+C:\Assignments\Codebase5\SignUpForm\SignUpForm\obj\Debug\net5.0\SignUpForm.csproj.CoreCompileInputs.cache
+C:\Assignments\Codebase5\SignUpForm\SignUpForm\obj\Debug\net5.0\SignUpForm.dll
+C:\Assignments\Codebase5\SignUpForm\SignUpForm\obj\Debug\net5.0\ref\SignUpForm.dll
+C:\Assignments\Codebase5\SignUpForm\SignUpForm\obj\Debug\net5.0\SignUpForm.pdb
+C:\Assignments\Codebase5\SignUpForm\SignUpForm\obj\Debug\net5.0\SignUpForm.genruntimeconfig.cache
